@@ -1,0 +1,102 @@
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Flappy_Bird.exe
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Flappy_Bird.pdb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.exe
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.pdb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.csprojResolveAssemblyReference.cache
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgMario.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\sandsea.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgMR2.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\ultra.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\pipe_bot.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\pipe_top.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Hero_Suchart.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\gameFont.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Hero_Suchart_fall.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgm.wma
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgm.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Stone.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2_fall.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2_fly.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Garage.wma
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Garage.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Easy_Breezy.wma
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Easy_Breezy.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\fall.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\fly.xnb
+C:\Users\AdviceNAN\Desktop\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\smash.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\ultra.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\background.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bg.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgm.wma
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgm.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgMario.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bgMR2.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2_fall.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\bird2_fly.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Easy_Breezy.wma
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Easy_Breezy.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\fall.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\fly.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\gameFont.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Garage.wma
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Garage.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Hero_Suchart.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Hero_Suchart_fall.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\pipe_bot.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\pipe_top.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\sandsea.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\smash.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\Stone.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Flappy_Bird.exe
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Flappy_Bird.pdb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.csprojResolveAssemblyReference.cache
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.exe
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\obj\x86\Debug\Flappy_Bird.pdb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\beep-02.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\beep-02-new.wma
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\beep-02-new.xnb
+G:\adv compro\Assignment2 flappy bird\Flappy_Bird\Flappy_Bird\bin\Windows\x86\Debug\Content\beep-02-a.xnb

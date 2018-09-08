@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/background.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bg.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bgMario.jpg</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/sandsea.jpg</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bgMR2.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/pipe_top.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Hero_Suchart.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/gameFont.spritefont</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bgm.mp3</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Stone.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/pipe_bot.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Hero_Suchart_fall.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bird2.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bird2_fall.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bird2_fly.png</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Garage.mp3</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Easy_Breezy.mp3</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/fall.wav</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/fly.wav</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/smash.wav</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/beep-02.wav</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/beep-02-new.mp3</File>
+    <File>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/beep-02-a.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

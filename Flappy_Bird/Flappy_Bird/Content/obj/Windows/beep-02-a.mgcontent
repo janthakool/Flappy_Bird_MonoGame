@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/beep-02-a.wav</SourceFile>
+  <SourceTime>2017-10-19T22:27:26.3979253+07:00</SourceTime>
+  <DestFile>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bin/Windows/beep-02-a.xnb</DestFile>
+  <DestTime>2017-10-19T22:27:47.2035711+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

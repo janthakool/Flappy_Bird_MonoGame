@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/Garage.mp3</SourceFile>
+  <SourceTime>2017-10-19T19:25:48.7184129+07:00</SourceTime>
+  <DestFile>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bin/Windows/Garage.xnb</DestFile>
+  <DestTime>2017-10-19T22:25:49.2583665+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/adv compro/Assignment2 flappy bird/Flappy_Bird/Flappy_Bird/Content/bin/Windows/Garage.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
